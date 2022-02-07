@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Abdul
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C++
+- 📫 How to reach me discord. Abdul#0708
